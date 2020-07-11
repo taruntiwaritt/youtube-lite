@@ -1,3 +1,7 @@
+The project is deployed to https://taruntiwaritt.github.io/youtube-lite/ .
+
+The project is a ReactJs application using Youtube API for fetching videos and displaying
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
